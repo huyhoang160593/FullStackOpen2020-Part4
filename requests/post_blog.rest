@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+    "title": "1+1=2 and I + You = You can't reply to this conversation.Learn more",
+    "author": "Quan Hai Hai",
+    "url": "https://www.dafk.net/what/",
+    "likes": 13
+}
